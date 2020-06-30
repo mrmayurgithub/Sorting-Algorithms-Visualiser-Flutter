@@ -4,5 +4,8 @@
 - Selection Sort
 - Heap Sort
 - Quick Sort
-- PigeonHole SOrt
+- PigeonHole Sort
 
+
+| <img src="assets/heap_unsorted.jpg" width="40%"> | <img src="assets/heap_sorted.jpg" width="40%">|
+| <img src="assets/merge_unsorted.jpg" width="40%"> | <img src="assets/merge_sorted.jpg" width="40%">|
